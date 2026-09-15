@@ -16,11 +16,3 @@ Soy desarrollador enfocado en construir aplicaciones eficientes y resolver probl
 </p>
 
 ---
-
-### Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contrib" />
