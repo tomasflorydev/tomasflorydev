@@ -1,6 +1,7 @@
 ## ¡Hola, soy Tomas Flory 
 
-Soy desarrollador enfocado en construir aplicaciones eficientes y resolver problemas a través del código.
+Soy un programdor enfocado en construir aplicaciones web y crear soluciones a través del código.
+Contactame en tomflory@hotmail.com y trabajemos juntos.
 
 ### 🛠️ Tecnologías y Herramientas
 
